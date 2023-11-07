@@ -1,5 +1,5 @@
 body {
-    background-color: #d5d5d5;
+    background-color: #FFB2E6;
 }
 
 .quiz {
@@ -8,7 +8,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: 2em;
-    background-color: white;
+    background-color: #FFFFE8;
     border-radius: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -22,7 +22,7 @@ body {
     display: block;
     margin: 5px 5px;
     padding: .5em .75em;
-    background-color: #3498db;
+    background-color: #D972FF;
     color: white;
     border: none;
     border-radius: 5px;
@@ -30,5 +30,5 @@ body {
   }
 
   .choice:hover {
-    background-color: #2980b9;
+    background-color: #8447FF;
   }
